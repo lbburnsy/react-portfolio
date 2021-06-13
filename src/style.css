@@ -1,0 +1,122 @@
+body {
+  background-color: #fff5f1;
+}
+
+nav {
+  padding: 10px;
+}
+
+nav,
+#nav-links {
+  background-color: #3b429f !important;
+}
+
+nav a {
+  font-size: 20px;
+  color: #fff5f1 !important;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #ffa500 !important;
+  background-color: #3b429f !important;
+}
+
+nav a:active {
+  background-color: #3b429f !important;
+}
+
+.recent-projects h2 {
+  color: #3b429f;
+}
+
+.hero {
+  padding-top: 20px;
+  background-color: #3b429f;
+}
+
+.hero-body {
+  position: relative;
+  bottom: 50px;
+}
+
+.hero p {
+  color: #fff5f1 !important;
+}
+
+#headshot {
+  width: 400px;
+}
+
+footer {
+  background-color: #3b429f;
+}
+
+footer h1 {
+  color: #fff5f1 !important;
+}
+
+footer i {
+  color: #fff5f1;
+  padding: 20px;
+  border: 1px solid #fff5f1;
+  border-radius: 100%;
+}
+
+footer i:hover {
+  color: #3b429f;
+  background-color: #fff5f1;
+  border: 1px solid #3b429f;
+  border-radius: 100%;
+  transition: 0.25s;
+}
+
+.technology-card {
+  background-color: #fcf7f8;
+  border: 2px solid #3b429f;
+  border-radius: 10px;
+  color: #3b429f;
+  position: relative;
+  bottom: 110px;
+}
+
+.technology-card-container i {
+  color: rgb(56, 55, 55);
+  font-size: 40px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.technology-card-container h2 {
+  font-size: 25px;
+  padding-bottom: 20px;
+}
+
+.technology-card-container p {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.tech-description {
+  color: black;
+}
+
+.tech-logo {
+  height: 65px;
+}
+
+#bootstrap-icon {
+  color: #401f7c;
+}
+
+#html-icon {
+  color: #ffa500;
+}
+
+#css-icon {
+  color: #264de4;
+}
+
+#bulma-logo {
+  height: 30px;
+}
