@@ -16,12 +16,12 @@ function Hero() {
                 to work with you.
               </p>
               <a href="/assets/pdf/resume-burns.pdf" download="Resume-LucBurns">
-                <button className="button is-link is-light is-rounded mb-2">
+                <button className="button is-link is-light is-rounded mb-2 mr-1">
                   View My Resume
                 </button>
               </a>
               <a href="mailto:burnsluc2@gmail.com" target="_blank">
-                <button className="button is-link is-light is-rounded">
+                <button className="button is-link is-light is-rounded ml-1">
                   Send Me An Email
                 </button>
               </a>
